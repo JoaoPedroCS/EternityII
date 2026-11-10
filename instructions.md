@@ -24,4 +24,4 @@ Para Compilar:
 Para executar:
 `mpirun -np 9 ./projeto_paralelo < inputs/06.in`
 
-**Instruções da execução**: é necessário rodar com o número de processadores (número logo após -np) sendo um número entre 2 e 9.
+**Instruções da execução**: é necessário rodar com o número de processadores (número logo após -np) sendo um número entre 2 e 9. 
